@@ -1,0 +1,10 @@
+numpy
+scikit-learn
+pandas
+jupyter
+nodejs
+plotly
+ipywidgets>=7.6
+seaborn
+scikit-optimize
+functools
